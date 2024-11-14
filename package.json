@@ -125,8 +125,8 @@
     "socks-proxy-agent": "^8.0.4",
     "source-map": "^0.6.1",
     "sprintf-js": "^1.1.3",
-    "string-width": "^4.2.3",
     "string_decoder": "^1.1.1",
+    "string-width": "^4.2.3",
     "strip-ansi": "^6.0.1",
     "strip-json-comments": "^3.1.1",
     "supports-color": "^8.1.1",
@@ -153,6 +153,10 @@
     "yocto-queue": "^0.1.0"
   },
   "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/jquery": "^3.5.32",
+    "@types/mocha": "^10.0.9",
+    "@types/selenium-webdriver": "^4.1.27",
     "mocha": "^10.8.2"
   },
   "scripts": {
